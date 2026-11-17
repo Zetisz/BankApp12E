@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hali\\source\\repos\\BankApp12E\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BE2476E6-4C71-4FDB-A766-1514E8F51AD1}|BankApp12E\\BankApp12E.csproj|c:\\users\\hali\\source\\repos\\bankapp12e\\bankapp12e\\bank.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE2476E6-4C71-4FDB-A766-1514E8F51AD1}|BankApp12E\\BankApp12E.csproj|solutionrelative:bankapp12e\\bank.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE2476E6-4C71-4FDB-A766-1514E8F51AD1}|BankApp12E\\BankApp12E.csproj|c:\\users\\hali\\source\\repos\\bankapp12e\\bankapp12e\\banktest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE2476E6-4C71-4FDB-A766-1514E8F51AD1}|BankApp12E\\BankApp12E.csproj|solutionrelative:bankapp12e\\banktest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BankTest.cs",
+              "DocumentMoniker": "C:\\Users\\hali\\source\\repos\\BankApp12E\\BankApp12E\\BankTest.cs",
+              "RelativeDocumentMoniker": "BankApp12E\\BankTest.cs",
+              "ToolTip": "C:\\Users\\hali\\source\\repos\\BankApp12E\\BankApp12E\\BankTest.cs",
+              "RelativeToolTip": "BankApp12E\\BankTest.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAswD4AAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-16T16:38:41.608Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Bank.cs",
+              "DocumentMoniker": "C:\\Users\\hali\\source\\repos\\BankApp12E\\BankApp12E\\Bank.cs",
+              "RelativeDocumentMoniker": "BankApp12E\\Bank.cs",
+              "ToolTip": "C:\\Users\\hali\\source\\repos\\BankApp12E\\BankApp12E\\Bank.cs",
+              "RelativeToolTip": "BankApp12E\\Bank.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAwwBoAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-16T16:37:28.552Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
